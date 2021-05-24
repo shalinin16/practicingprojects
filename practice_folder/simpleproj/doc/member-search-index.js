@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"simpleproj","c":"subsetsum2","l":"accept(int)"},{"p":"simpleproj","c":"subsetsum2","l":"check(int, int)","u":"check(int,int)"},{"p":"simpleproj","c":"subsetsum2","l":"subsetsum2()","u":"%3Cinit%3E()"}];updateSearchResults();
